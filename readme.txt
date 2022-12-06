@@ -2,7 +2,6 @@
 Course: Cloud Computing - CS728
 Semester: 2
 212IS027(sachin santoki)
-212IS029(Shah Dharam)
 ####################################
 
 1. Create a parent folder and put all the files in that.
